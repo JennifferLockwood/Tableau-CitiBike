@@ -7,7 +7,7 @@ The task in this assignment is to aggregate the data found in the Citi Bike Hist
 -What are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
 -How has the proportion of short-term customers and annual subscribers changed?
-![Top 10 Stations 2019](Images/Top10Stations2019.jpg)
+![Top 10 Stations 2019](Images/Top10Stations.jpg)
 
 -How does the average trip duration change by age?
 ![Change By Age](Images/ChangeByAge.jpg)
