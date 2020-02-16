@@ -9,5 +9,5 @@ The task in this assignment is to aggregate the data found in the Citi Bike Hist
 - How has the proportion of short-term customers and annual subscribers changed?
 ![Top 10 Stations 2019](Images/Top10Stations.jpg)
 
--How does the average trip duration change by age?
+- How does the average trip duration change by age?
 ![Change By Age](Images/ChangeByAge.jpg)
